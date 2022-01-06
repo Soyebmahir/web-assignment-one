@@ -1,9 +1,32 @@
 body {
+  margin: 60px;
   font-family: "Poppins", sans-serif;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+
+.left-roll {
+  margin-top: 22px;
+  background-color: red;
+  height: 130px;
+  width: 4px;
 }
 h1 {
   font-size: 50px;
+  margin: 0px;
+  padding-bottom: 20px;
 }
-.lightcoral {
+#one {
+}
+.text-color {
   color: lightcoral;
+}
+.link-button {
+  background-color: rgb(199, 28, 128);
+  color: rgb(235, 230, 224);
+  border-radius: 5px;
 }
