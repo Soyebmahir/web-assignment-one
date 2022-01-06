@@ -54,6 +54,7 @@ a {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 40px;
+  font-size: 50px;
 }
 .img {
   width: 35%;
@@ -108,5 +109,21 @@ a {
   text-decoration: none;
 }
 .bottom {
+  padding-bottom: 30px;
+}
+.community {
+  font-size: 50px;
+}
+.global {
+  width: 60%;
+}
+.width {
+  width: 40%;
+}
+.width img {
+  margin-top: 50px;
+  width: 100%;
+}
+.bottom2 {
   padding-bottom: 30px;
 }
