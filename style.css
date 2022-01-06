@@ -1,10 +1,12 @@
 body {
   margin-top: 30px;
+
   font-family: "Poppins", sans-serif;
 }
 section {
   display: flex;
   margin-left: 150px;
+  margin-right: 150px;
 }
 .left-roll {
   margin-top: 62px;
@@ -15,7 +17,7 @@ section {
   border-radius: 5px;
 }
 .description {
-  padding-right: 200px;
+  padding-right: 130px;
   margin-bottom: 30px;
 }
 .scroll {
@@ -26,11 +28,11 @@ section {
   margin-top: 40px;
 }
 .half-width img {
-  width: 60%;
-  margin-left: 50px;
+  width: 70%;
+  margin-left: 70px;
 }
 
-h1 {
+.one {
   font-size: 50px;
   margin: 0px 0px 0px 10px;
 }
@@ -50,21 +52,46 @@ a {
 }
 .center {
   text-align: center;
-  padding-top: 70px;
+  padding-top: 50px;
+  padding-bottom: 40px;
 }
 .img {
-  width: 50%;
+  width: 35%;
+  margin-top: 30px;
 }
 .second {
   display: flex;
 }
 .mission {
-  width: 33%;
-  background-color: rgb(127, 207, 207);
+  width: 30%;
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 25px;
 }
 .vision {
-  width: 33%;
+  width: 30%;
+  background-color: lightpink;
+  border-radius: 25px;
+  margin-left: 2%;
+  padding: 20px;
 }
 .goals {
-  width: 33%;
+  width: 30%;
+  background-color: lightseagreen;
+  border-radius: 25px;
+  margin-left: 2%;
+  padding: 20px;
+}
+
+.third {
+  margin-top: 70px;
+  display: flex;
+}
+.img2 {
+}
+.second-description {
+  width: 50%;
+}
+.image {
+  width: 50%;
 }
