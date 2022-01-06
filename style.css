@@ -1,21 +1,32 @@
 body {
-  margin: 60px;
+  margin-top: 30px;
   font-family: "Poppins", sans-serif;
 }
 section {
   display: flex;
+  margin-left: 150px;
 }
-.half-width {
-  width: 50%;
-}
-
 .left-roll {
-  margin-top: 22px;
+  margin-top: 62px;
+
   background-color: red;
   height: 110px;
   width: 4px;
   border-radius: 5px;
 }
+p {
+  padding-right: 200px;
+  margin-bottom: 30px;
+}
+.half-width {
+  width: 50%;
+  margin-top: 40px;
+}
+.half-width img {
+  width: 60%;
+  margin-left: 50px;
+}
+
 h1 {
   font-size: 50px;
   margin: 0px 0px 0px 10px;
