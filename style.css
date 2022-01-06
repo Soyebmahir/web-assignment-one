@@ -46,8 +46,25 @@ a {
   background-color: rgb(199, 28, 128);
   color: rgb(235, 230, 224);
   border-radius: 5px;
+  text-decoration: none;
 }
 .center {
   text-align: center;
   padding-top: 70px;
+}
+.img {
+  width: 50%;
+}
+.second {
+  display: flex;
+}
+.mission {
+  width: 33%;
+  background-color: rgb(127, 207, 207);
+}
+.vision {
+  width: 33%;
+}
+.goals {
+  width: 33%;
 }
