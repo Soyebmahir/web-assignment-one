@@ -12,18 +12,21 @@ section {
 .left-roll {
   margin-top: 22px;
   background-color: red;
-  height: 130px;
+  height: 110px;
   width: 4px;
+  border-radius: 5px;
 }
 h1 {
   font-size: 50px;
-  margin: 0px;
-  padding-bottom: 20px;
+  margin: 0px 0px 0px 10px;
 }
-#one {
-}
+
 .text-color {
   color: lightcoral;
+}
+a {
+  font-weight: 600;
+  padding: 10px 40px;
 }
 .link-button {
   background-color: rgb(199, 28, 128);
